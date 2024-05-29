@@ -13,6 +13,6 @@ This is a Flutter app that demonstrates implementation of UI and API Integration
    git clone https://github.com/wkuye/Mobile-Dev-Assessment.git
 
 2. install Dependencies
-   ```bash flutter pub get
+   ```bash     flutter pub get
 3. Run the App
    ```bash  flutter run
